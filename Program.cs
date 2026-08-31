@@ -1,6 +1,6 @@
 ﻿// using System.Net.Http.Headers;
 
-//PESSOA
+//CLASSE PESSOA
 
 // Pessoa p1 = new Pessoa();
 // Pessoa p2 = new Pessoa();
@@ -19,7 +19,7 @@
 // Console.WriteLine(); //Separar bonitinho
 // p1.Saudar();
 
-//CARRO
+//CLASSE CARRO
 // Carro c1 = new Carro();
 // Carro c2 = new Carro();
 
@@ -38,4 +38,19 @@
 // c2.CarInfo();
 
 
-//PRODUTO
+//CLASSE INGRESSO
+
+// Ingresso i1 = new Ingresso();
+// Ingresso i2 = new Ingresso();
+
+// i1.NomeCirco = "Mirage Circus";
+// i1.Setor = 2;
+// i1.Valor = 60;
+
+// i2.NomeCirco = "Circo Stankowich";
+// i2.Setor = 7;
+// i2.Valor = 150;
+
+// i1.DadosIngresso();
+// Console.WriteLine();
+// i2.DadosIngresso();
