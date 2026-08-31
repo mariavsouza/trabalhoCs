@@ -1,0 +1,15 @@
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.AssemblyInfoInputs.cache
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.AssemblyInfo.cs
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.csproj.CoreCompileInputs.cache
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.sourcelink.json
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\bin\Debug\net10.0\trabalhoCs.exe
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\bin\Debug\net10.0\trabalhoCs.deps.json
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\bin\Debug\net10.0\trabalhoCs.runtimeconfig.json
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\bin\Debug\net10.0\trabalhoCs.dll
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\bin\Debug\net10.0\trabalhoCs.pdb
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.dll
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\refint\trabalhoCs.dll
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.pdb
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\trabalhoCs.genruntimeconfig.cache
+C:\Users\maria62068486\OneDrive - SENAC-SC\Área de Trabalho\aulas_Ds\aulas_gitHub\trabalhoCs\obj\Debug\net10.0\ref\trabalhoCs.dll
