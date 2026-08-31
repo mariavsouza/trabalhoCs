@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trabalhoCs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa688d613f6be7aea8dec2e26d6252e5312e2200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32dd3751e115ea64f323c9ecdcec1e3e7afaeb6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("trabalhoCs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trabalhoCs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
